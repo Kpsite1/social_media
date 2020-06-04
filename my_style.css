@@ -1,0 +1,45 @@
+html, body {
+    width: 120%;
+    height: 100%;
+    padding: 0px;
+    margin: 0px;
+    overflow-x: hidden;
+    }
+}
+
+body{background-color: chartreuse;}
+
+.stars{
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    }
+.rose{
+    position: absolute;
+    z-index: 2;
+    top: 0;
+    left: 0;
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
